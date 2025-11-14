@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9">
   <diagram name="Page-1" id="35hqeSRNqRhFyArWompt">
-    <mxGraphModel dx="1126" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="787" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,10 +18,10 @@
         <mxCell id="uVX7i1pAHMvnM2886kcO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-9">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-7">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVX7i1pAHMvnM2886kcO-1" value="&lt;div&gt;0&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
@@ -42,10 +42,10 @@
         <mxCell id="uVX7i1pAHMvnM2886kcO-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;STUDENTS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-7" target="uVX7i1pAHMvnM2886kcO-1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uVX7i1pAHMvnM2886kcO-7" target="uVX7i1pAHMvnM2886kcO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-7" target="uVX7i1pAHMvnM2886kcO-1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="uVX7i1pAHMvnM2886kcO-7" target="uVX7i1pAHMvnM2886kcO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVX7i1pAHMvnM2886kcO-7" value="SERVER MODS/MAINTAINERS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
@@ -57,22 +57,22 @@
         <mxCell id="uVX7i1pAHMvnM2886kcO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="uVX7i1pAHMvnM2886kcO-9" target="uVX7i1pAHMvnM2886kcO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-9" target="uVX7i1pAHMvnM2886kcO-1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uVX7i1pAHMvnM2886kcO-9" target="uVX7i1pAHMvnM2886kcO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-9" target="uVX7i1pAHMvnM2886kcO-1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uVX7i1pAHMvnM2886kcO-9" target="uVX7i1pAHMvnM2886kcO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVX7i1pAHMvnM2886kcO-9" value="&lt;div&gt;DISCORD&amp;nbsp;&lt;/div&gt;&lt;div&gt;SERVERS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uVX7i1pAHMvnM2886kcO-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Updates to-do lists/profile&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uVX7i1pAHMvnM2886kcO-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Profile updates&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uVX7i1pAHMvnM2886kcO-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Joins/leaves study room&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uVX7i1pAHMvnM2886kcO-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Discord login requests&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="250" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uVX7i1pAHMvnM2886kcO-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Logs in with Discord account&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uVX7i1pAHMvnM2886kcO-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;To-do list updates&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="445" y="320" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uVX7i1pAHMvnM2886kcO-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Login confirmation&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
@@ -90,25 +90,25 @@
         <mxCell id="uVX7i1pAHMvnM2886kcO-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Video chat functionality&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Student activity&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Student activity&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="680" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Study session stats (duration/date of session)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Study session stats (duration/date of session)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="230" y="590" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Server name and description&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Server name and description&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="222.5" y="530" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;List of Discord accounts that have been banned in server (so they are hidden from the leader boards)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;List of Discord accounts that have been banned in server (so they are hidden from the leader boards)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="530" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Authorization to moderate servers&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Authorization to moderate servers&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Banning accounts that don&#39;t follow rules&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Banning accounts that don&#39;t follow rules&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="390" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Connecting Proactify Service to their server&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7keOyi3CRkiXeKfYow6-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Connecting Proactify Service to their server&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="370" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
