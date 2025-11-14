@@ -37,9 +37,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G1FJwnKk38ISozNMqn_b-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="G1FJwnKk38ISozNMqn_b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-1" target="uVX7i1pAHMvnM2886kcO-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -68,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uVX7i1pAHMvnM2886kcO-7" value="SERVER MODS/MAINTAINERS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G1FJwnKk38ISozNMqn_b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="uVX7i1pAHMvnM2886kcO-9" target="uVX7i1pAHMvnM2886kcO-1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,11 +112,8 @@
         <mxCell id="b7keOyi3CRkiXeKfYow6-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Server metadata (server name, server ID, description)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="580" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Server analytics &amp;amp; stats&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="390" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="b7keOyi3CRkiXeKfYow6-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Server auth and connection request (enabling analytics, linking server)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="370" width="100" height="50" as="geometry" />
+        <mxCell id="b7keOyi3CRkiXeKfYow6-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Server auth and connection request (linking server)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="370" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G1FJwnKk38ISozNMqn_b-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Updated leaderboards&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="535" width="110" height="20" as="geometry" />
@@ -131,9 +125,6 @@
               <mxPoint x="230" y="840" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="G1FJwnKk38ISozNMqn_b-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;User metadata (ID)&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="500" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G1FJwnKk38ISozNMqn_b-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;List of banned Discord user IDs&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="610" width="110" height="30" as="geometry" />
@@ -151,7 +142,7 @@
           <mxGeometry x="280" y="800" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G1FJwnKk38ISozNMqn_b-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Notifications about rule-violations&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="240" width="60" height="50" as="geometry" />
+          <mxGeometry x="295" y="240" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
